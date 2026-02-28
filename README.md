@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Professional Summary:</h2>
 
-Seasoned IT professional with over 20 years of progressive experience in network operations, security 
+Seasoned IT professional with over 15 years of progressive experience in network operations, security 
 engineering, system administration, and technical support. Skilled in managing enterprise networks, 
 firewall security, cloud technologies, and virtualization. Proven ability to lead incident response, 
 infrastructure improvements, and client technical engagements. Backed by numerous technical 
